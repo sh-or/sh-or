@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sh-or
-- 👀 I’m interested in student programming job
-- 🌱 I’m currently learning computre science
+- 👋 Hi, I’m @sh-or, graduated B.Sc. in computer science
+- 👀 I’m interested in programming position
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
